@@ -1,3 +1,4 @@
+# Student-Registration-System
 # Student Registration System
 
 A modern, responsive web application for managing student course registrations. Built with React, TypeScript, and Tailwind CSS.
